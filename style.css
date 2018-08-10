@@ -80,3 +80,11 @@
       font-size: 40px;
       flex: 4;
     }
+
+    .panel.open p:first-child {
+      transform: translateY(0);
+    }
+
+    .panel.open p:nth-child(3) {
+      transform: translateY(0);
+    }
