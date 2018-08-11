@@ -68,11 +68,11 @@
     }
 
     .panel p:first-child {
-      transform: translateY(-7rem);
+      transform: translateY(-100%);
     }
 
     .panel p:nth-child(3) {
-      transform: translateY(7rem);
+      transform: translateY(100%);
     }
 
     .panel.open {
